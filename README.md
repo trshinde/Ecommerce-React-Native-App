@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+                                                               ECommerce Online Shopping React Native Application
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 From within your terminal copy and paste the following command. This will make sure you download the repository and install all its dependencies.
 ```
-git clone https://github.com/charisTheo/ecommerce-react-native-app.git && cd ecommerce-react-native-app && npm i -—save —-save-dev
+git clone https://github.com/trshinde/Ecommerce-React-Native-App.git && cd ecommerce-react-native-app && npm i -—save —-save-dev
 ```
 
 ## Available Scripts
