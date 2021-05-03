@@ -1,4 +1,4 @@
-                                                               ECommerce Online Shopping React Native Application
+                                                     ECommerce Online Shopping React Native Application
 
 ## Table of Contents
 
