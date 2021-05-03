@@ -1,4 +1,6 @@
-                                           ECommerce Online Shopping React Native Application
+                                    ECommerce Online Shopping React Native Application
+                                    
+  An electronics shopping eCommerce React Native app with display of electronic items and based on whichever item or product selected
 
 ## Table of Contents
 
